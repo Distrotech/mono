@@ -1,0 +1,4 @@
+../../build/deps/net_4_5_System.ComponentModel.DataAnnotations.dll.sources: net_4_0_System.ComponentModel.DataAnnotations.dll.sources
+net_4_0_System.ComponentModel.DataAnnotations.dll.sources:
+../../build/deps/net_4_5_System.ComponentModel.DataAnnotations.dll.sources: System.ComponentModel.DataAnnotations.dll.sources
+System.ComponentModel.DataAnnotations.dll.sources:

@@ -1,0 +1,3 @@
+./../../class/lib/net_4_5/wsdl.exe: MonoWSDL.cs
+./../../class/lib/net_4_5/wsdl.exe: MonoWSDL2.cs
+./../../class/lib/net_4_5/wsdl.exe: SampleGenerator.cs

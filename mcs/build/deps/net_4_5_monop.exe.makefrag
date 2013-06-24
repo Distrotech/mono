@@ -1,0 +1,4 @@
+./../../class/lib/net_4_5/monop.exe: monop.cs
+./../../class/lib/net_4_5/monop.exe: options.cs
+./../../class/lib/net_4_5/monop.exe: outline.cs
+./../../class/lib/net_4_5/monop.exe: TypeSorter.cs

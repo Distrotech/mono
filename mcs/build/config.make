@@ -1,0 +1,13 @@
+prefix=/usr
+exec_prefix=${prefix}
+sysconfdir=${prefix}/etc
+mono_libdir=${exec_prefix}/lib
+IL_FLAGS = /debug
+RUNTIME = /usr/src/mono/mono/runtime/mono-wrapper
+ILDISASM = /usr/src/mono/mono/runtime/monodis-wrapper
+JAY_CFLAGS = -Wno-implicit-function-declaration
+INSTALL = /usr/bin/ginstall -c
+MONO_VERSION = 3.0.12.0
+ENABLE_AOT = 1
+DEFAULT_PROFILE = net_4_5
+BCL_OPTIMIZE = 1
